@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* **Your name and PID**: Lucas Umberger (lucas22)
 
-* **Your partner's name and PID:**
+* **Your partner's name and PID:** Alex Urbina (ualexander)
 
-* **Link to selected coding challenge:**
+* **Link to selected coding challenge:** https://leetcode.com/problems/two-sum/
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** Good communication but should not leave so much time where I am working and not talking. Try to talk about the thinking process more while I am working to not create a space where nothing is being said. Explain the concepts being used mroe technically and don't use casual language, be professional.
